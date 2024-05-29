@@ -1,7 +1,7 @@
 class Stonenet < Formula
   homepage "https://stonenet.org/"
-  url "https://github.com/bamidev/stonenet/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "09f274f974a2713260567407a2b7487567ae7f8c14e7cffba28558bf92ca31c4"
+  url "https://github.com/bamidev/stonenet/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "9cf00fe41c38231e2e9649aadf778591528589a4666072739b68aaaa002017c8"
 
   depends_on "rust"
 
